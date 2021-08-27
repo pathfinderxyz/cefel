@@ -13,8 +13,8 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <!-- Favicon icon -->
-    <link rel="icon" type="image/png" sizes="16x16" href="assets/images/icon.png">
-    <title>Login | Nework</title>
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/images/icon_cefel.png">
+    <title>Login | Cefel</title>
     
     <!-- page css -->
     <link href="dist/css/pages/login-register-lock.css" rel="stylesheet">
