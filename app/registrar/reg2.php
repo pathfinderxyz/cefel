@@ -1,6 +1,5 @@
 <?php 
-     $miid=  $_SESSION['id'];
-     $patro=  $_SESSION['usuario'];
+      include '../../Errores/mostrar_errores.php';
      
     ?>
 <style type="text/css">

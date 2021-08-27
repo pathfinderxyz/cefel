@@ -1,6 +1,7 @@
 <?php 
      
     include '../../coneccion/coneccion.php';
+     include '../../Errores/mostrar_errores.php';
     $id = $_GET['id']; 
 
      
